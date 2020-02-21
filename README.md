@@ -10,6 +10,6 @@ Dimension for the weights of the layers are importent to understand the neural n
 To understand the backpropagation properly 
 1. first calculate the cost 
 2. use the chain rule to back propagate the error
-follow the link to understand the maths of the back propagation
-https://towardsdatascience.com/everything-you-need-to-know-about-neural-networks-and-backpropagation-machine-learning-made-easy-e5285bc2be3a
+follow the [link](https://towardsdatascience.com/everything-you-need-to-know-about-neural-networks-and-backpropagation-machine-learning-made-easy-e5285bc2be3a) to understand the maths of the back propagation
+
 
